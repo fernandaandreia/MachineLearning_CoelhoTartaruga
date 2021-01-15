@@ -1,0 +1,22 @@
+{
+  "name": "MLModulo",
+  "version": "1.0.1",
+  "summary": "A short description of MLModulo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fernandaandreia/MLModulo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fernandaandreia": "fernanda.nascimento.btk@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fernandaandreia/MLModulo.git",
+    "tag": "1.0.1"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "MLModulo/Classes/**/*"
+}
